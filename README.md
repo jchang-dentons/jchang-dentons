@@ -17,4 +17,3 @@ Much of my work is in private repositories. This chart includes contribution tot
 <picture>
   <img src="/github-metrics.svg" alt="Jiakang's GitHub contribution activity for the past year" width="100%">
 </picture>
-
